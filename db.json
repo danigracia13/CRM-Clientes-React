@@ -1,0 +1,44 @@
+{
+  "clientes": [
+    {
+      "nombre": "Dani Gracia",
+      "empresa": "Ego",
+      "email": "dani@correo.com",
+      "telefono": "652142517",
+      "notas": "El cliente es el puto amo",
+      "id": 1
+    },
+    {
+      "nombre": "Juan Manuel Quiroga",
+      "empresa": "Seat",
+      "email": "juanmanuel@seat.es",
+      "telefono": "",
+      "notas": "",
+      "id": 2
+    },
+    {
+      "nombre": "Maria Elena Quiroga",
+      "empresa": "HP",
+      "email": "mariaelena@hp.com",
+      "telefono": "696940770",
+      "notas": "El cliente esta enfadado",
+      "id": 3
+    },
+    {
+      "nombre": "Carlos Gracia",
+      "empresa": "La Llagosta",
+      "email": "carlosgracia@lallagosta.cat",
+      "telefono": "",
+      "notas": "",
+      "id": 4
+    },
+    {
+      "nombre": "Alfonso Garcia",
+      "empresa": "Alfonso Chapas",
+      "email": "alfonsochapas@gmail.com",
+      "telefono": "678569876",
+      "notas": "",
+      "id": 5
+    }
+  ]
+}
